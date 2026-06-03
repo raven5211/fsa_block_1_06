@@ -1,3 +1,6 @@
 [submodule "solar-system"]
 	path = solar-system
 	url = https://github.com/raven5211/fsa_block06_solar-system.git
+[submodule "fullstack-bakery"]
+	path = fullstack-bakery
+	url = https://github.com/raven5211/fsa_block06_fullstack-bakery.git
