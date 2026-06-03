@@ -5,5 +5,5 @@
 	path = fullstack-bakery
 	url = https://github.com/raven5211/fsa_block06_fullstack-bakery.git
 [submodule "fsa_block06_flex_practice"]
-	path = fsa_block06_flex_practice
+	path = flex_practice
 	url = https://github.com/raven5211/fsa_block06_flex_practice.git
