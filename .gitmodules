@@ -1,9 +1,9 @@
 [submodule "solar-system"]
 	path = solar-system
-	url = https://github.com/raven5211/fsa_block06_solar-system.git
+	url = https://github.com/raven5211/fsa_block_1_06_solar-system.git
 [submodule "fullstack-bakery"]
 	path = fullstack-bakery
-	url = https://github.com/raven5211/fsa_block06_fullstack-bakery.git
+	url = https://github.com/raven5211/fsa_block_1_06_fullstack-bakery.git
 [submodule "fsa_block06_flex_practice"]
 	path = flex_practice
-	url = https://github.com/raven5211/fsa_block06_flex_practice.git
+	url = https://github.com/raven5211/fsa_block_1_06_flex_practice.git
